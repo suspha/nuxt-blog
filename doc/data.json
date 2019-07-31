@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "date": "date",
+  "modified": "date modified",
+  "status":[ "draft", "unpublished", "published" ],
+  "type": "post",
+  "author": 111,
+  "title": "title",
+  "subtitle":"subtitle",
+  "text": "description text",
+  "meta": "meta descriton",
+  "image":"image"
+}

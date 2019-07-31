@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-blog",
+  "version": "1.0.0",
+  "description": "My phenomenal Nuxt.js project",
+  "author": "Susana Pham",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "axios": "^0.19.0",
+    "cookie-universal-nuxt": "^2.0.17",
+    "nuxt": "^2.0.0",
+    "portal-vue": "^2.1.5",
+    "waveorb-client": "0.0.7",
+    "wsrecon": "^0.3.1"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0",
+    "vue-jest": "^3.0.3"
+  }
+}
